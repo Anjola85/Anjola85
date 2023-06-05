@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on a cross-platform grocery information app <br>👯 I’m looking to collaborate on open source projects!<br>🌱 I’m currently learning Cloud Engineering technologies (AWS, Docker, Azure DevOps)<br>🧏🏾‍♂️  Security Enthusiast<br>⚡  Fun fact, top 200 MWII player in 2021 (Haters will say I'm lying)
+🔭 Currently working on a cross-platform grocery information app <br>👯 I’m looking to collaborate on open source projects!<br>🌱 I’m currently learning Cloud Engineering technologies (AWS, Docker, Azure DevOps)<br>🧏🏾‍♂️  Security Enthusiast<br>⚡  Fun fact, top 200 MWII player in 2021 (Haters will call it cap)
 
 
 ## 🌐 Socials:
