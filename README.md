@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-👯 I’m looking to collaborate on open source projects!<br>🌱 I’m currently learning Cloud Engineering technologies (AWS, GCP)<br>🧏🏾‍♂️  Security Enthusiast<br>⚡  Fun fact, top 200 MWII player in Toronto (Haters will call it cap)
+👯 I’m looking to collaborate on open source projects!<br>🌱 I’m currently learning Cloud Engineering technologies (AWS, GCP)<br>🧏🏾‍♂️  Security Enthusiast<br>⚡  Fun fact, top 200 MWII player in Toronto
 
 
 ## 🌐 Socials:
